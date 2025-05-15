@@ -1,0 +1,1 @@
+<alloy><sig label="this/Customer"><field label="customerID" /><field label="customerName" /></sig><sig label="this/Account"><field label="accountID" /></sig><sig label="this/Loan"><field label="loanID" /></sig><fact label="this/Account_Customer_Association" /><fact label="this/Loan_Customer_Association" /></alloy>
