@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Data/CustomerOrderObjectModel_Sol_2.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Data/CustomerOrderObjectModel_Sol_3.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Data/CustomerOrderObjectModel_Sol_4.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Data/CustomerOrderObjectModel_Sol_5.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/x-orm-synthesizer/generated_sql/CustomerOrderObjectModel_Sol_2.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/x-orm-synthesizer/generated_sql/CustomerOrderObjectModel_Sol_3.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/x-orm-synthesizer/generated_sql/CustomerOrderObjectModel_Sol_4.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/x-orm-synthesizer/generated_sql/CustomerOrderObjectModel_Sol_5.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/x-orm-synthesizer/generated_sql/customerOrderObjectModel_Sol_1.sql" dialect="GenericSQL" />
+  </component>
+</project>
