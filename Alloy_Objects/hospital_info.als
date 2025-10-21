@@ -1,3 +1,6 @@
+module hospital_info
+open Declaration
+
 // ---------- Inheritance #1 ----------
 abstract sig Person {
   pid: one Int,
@@ -281,3 +284,4 @@ pred sanity {
 }
 
 run sanity for 25 but 10 Int
+
