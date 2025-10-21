@@ -1,7 +1,7 @@
 # Y-MAP
 ![Overview (1)](https://github.com/user-attachments/assets/53e3c628-2809-47fa-9a4d-d6a3f6e57812)
 
-# Y-MAP: A Multi-Encoder Neural Framework for Optimizing Object-Relational Schema Design
+# Y-Map: Benchmark-Free Neural-Symbolic Multiobjective Optimization for ORM Schema Design
 
 ## Overview
 
